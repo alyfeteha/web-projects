@@ -1,0 +1,62 @@
+h1{
+    font-family: Cantata One ;
+    font-size: 40px;
+    text-shadow: 2px 2px 8px #2d0f8e76;
+
+}
+body, html {
+    height: 100%;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("https://innohealthmagazine.com/wp-content/uploads/2019/04/Digital-healthcare.jpg");
+  
+    /* Full height */
+   /* // height: 100%; */
+  /* margin-top: auto; */
+  /* position: fixed;  */
+  top: 0; 
+  left: 0;  
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .button {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* box-shadow: 5px 10px #ffffff; */
+  }
+  .button1 {
+    background-color: #211864; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 5px 10px #ffffff;
+  }
+  .title{
+    font-family: Cantata One ;
+    font-size: 60px;
+    text-shadow: 2px 2px 8px #FFffff;
+    color: #2d0f8e76;
+  }
+  h2{
+    font-family: Cantata One ;
+    font-size: 40px;
+    text-shadow: 2px 2px 8px #2d0f8e76;
+  }
